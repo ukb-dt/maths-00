@@ -1,4 +1,4 @@
-# 1
+# [1](https://ukb-dt.github.io/maths-01/)
 Yeah — *lazy*, but also **not wrong**. It’s a good first compression, it just collapses distinctions that matter once you lean on it. Let me tighten it without losing the spirit.
 
 ---
